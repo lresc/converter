@@ -1,0 +1,23 @@
+{
+  "name": "converterfiles",
+  "version": "1.0.0",
+  "description": "Web for convert files to choosen one",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lresc/converter"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Lara Ruiz de Escudero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lresc/converter/issues"
+  },
+  "homepage": "https://github.com/lresc/converter"
+}
