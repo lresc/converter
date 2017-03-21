@@ -20,6 +20,8 @@ function handleRequest(request, response){
     }
 }
 
+
+
 //For all your static (js/css/images/etc.) set the directory name (relative path).
 dispatcher.setStatic('resources');
 //A sample GET request    
